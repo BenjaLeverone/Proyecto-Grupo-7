@@ -38,7 +38,6 @@ def datos_cuenta(datos_cliente):
 
 
 def logearse(datos): 
-    print(datos) 
     cliente_datos="algo"                                      #verificacion de datos de la cuenta
     while True:
         encontrado=False
